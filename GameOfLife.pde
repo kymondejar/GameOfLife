@@ -4,11 +4,9 @@ import de.bezier.guido.*;
  private Life[][] buttons;
  private boolean[][] buffer; 
  private boolean running = true; 
-  
- }
 
  public void setup () {
- size(2000, 2000);
+ size(800, 800);
    frameRate(6);
    Interactive.make( this );
    buttons = new Life[NUM_ROWS][NUM_COLS];
