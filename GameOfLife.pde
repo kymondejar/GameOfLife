@@ -6,7 +6,7 @@ import de.bezier.guido.*;
  private boolean running = true; 
 
  public void settings() {
-   size(800, 800);
+   size(2000, 2000);
  }
 
  public void setup () {
