@@ -4,8 +4,6 @@ import de.bezier.guido.*;
  private Life[][] buttons;
  private boolean[][] buffer; 
  private boolean running = true; 
-
- public void () {
   
  }
 
